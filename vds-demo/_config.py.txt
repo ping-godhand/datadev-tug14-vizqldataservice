@@ -1,0 +1,9 @@
+## RENAME THIS TO _config.py ##
+
+site_name = ""
+connectedAppClientId = ""
+connectedAppSecretId = ""
+connectedAppSecretKey = ""
+pod = ""
+
+datasource_id = ""
