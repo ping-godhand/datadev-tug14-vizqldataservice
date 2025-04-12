@@ -1,4 +1,4 @@
-# datadev-vds-demo
+# datadev-tug14-vizqldataservice
 
 This is a **VizQL Data Service (VDS) demo** created for the **Tableau Community**.  
 It serves as a starting point for learning and experimenting with **Headless BI** concepts, particularly for integration into **Data + AI workflows**.
